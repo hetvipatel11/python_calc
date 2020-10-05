@@ -6,7 +6,7 @@
 ###### The View file represents the files, which interact with the end user. It represents the model’s data to user.
 
 # Step 3: Create main.py
-####### The aim of the main file to test the view file
+###### The aim of the main file to test the view file
 
 # Step 4: Create model.py
 ###### The Model component corresponds to all the data-related logic that the user works with. This can represent either the data that is being transferred between the View and Controller components or any other business logic-related data.
