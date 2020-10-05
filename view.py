@@ -12,7 +12,9 @@ class GUI(QMainWindow):
         """View initializer."""
         super().__init__()
 
-
+        # Set some main window's properties
+        self.setWindowTitle('Calculator')
+        self.setFixedSize(235, 235)
 
         # Set the central widget and the general layout
         self.generalLayout = QVBoxLayout()
