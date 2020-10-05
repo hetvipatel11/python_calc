@@ -11,11 +11,12 @@
 # Step 4: Create model.py
 ###### The Model component corresponds to all the data-related logic that the user works with. This can represent either the data that is being transferred between the View and Controller components or any other business logic-related data.
 
-# Step 5: Update main.py
-###### Update the main file in order to test the model file also.
-
-# Step 6: Create controller.py
+# Step 5: Create controller.py
 ###### It acts as an interface between Model and View components to process all the business logic and incoming requests, manipulate data using the Model component and interact with the Views to render the final output.
 
-# Step 7: Update main.py
-###### Update the main file in order to test the model file of the code.
+# Output:
+###### To run these file I have used command prompt.
+First install pip install pyqt5 in command prompt before running the file. We have to insatll pyQt5 file in command prompt because it doesn't have these files are not pre-installed.
+
+
+
