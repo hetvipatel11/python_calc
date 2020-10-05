@@ -16,7 +16,7 @@
 
 # Output:
 ###### To run these file I have used command prompt.
-First install pip install pyqt5 in command prompt before running the file. We have to insatll pyQt5 file in command prompt because it doesn't have these files are not pre-installed.
+First install pip install pyqt5 in command prompt before running the file. We have to install pyQt5 file in command prompt because it doesn't have these files are not pre-installed.
 
 ![alt text](https://github.com/hetvipatel11/python_calc/blob/main/calc.png)
 
